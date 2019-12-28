@@ -15,7 +15,6 @@ class SingleProduct extends React.Component {
                                         aria-expanded="false" aria-label="Toggle navigation">
                                     <span className="menu_icon"><i className="fas fa-bars"></i></span>
                                 </button>
-
                                 <div className="collapse navbar-collapse main-menu-item" id="navbarSupportedContent">
                                     <ul className="navbar-nav">
                                         <li className="nav-item">
